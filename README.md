@@ -1,1 +1,1 @@
-A JumpFm plugin that lets you jump.
+A [JumpFm](http://jumpfm.org/) plugin that lets you jump.
